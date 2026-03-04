@@ -166,6 +166,7 @@ android/app/build/outputs/apk/release/app-release.apk
 <img width="480" height="600" alt="hafta2_anasayfa" src="https://github.com/user-attachments/assets/bbc4c8df-ad08-4e07-941d-02b8e8f8d454" />
 <img width="480" height="600" alt="hafta2_videolar_sayfasi" src="https://github.com/user-attachments/assets/214dddac-430b-4837-a38b-5fcfa9cbd882" />
 <img width="480" height="600" alt="hafta2_hakkinda_sayfasi" src="https://github.com/user-attachments/assets/c052a98b-550f-4f6f-803d-77ad20333750" />
+<img width="480" height="600" alt="hafta2_bulmaca_deneme" src="https://github.com/user-attachments/assets/56c302db-e04e-4ebb-aae4-482fd8b7fbb7" />
 
 ---
 
