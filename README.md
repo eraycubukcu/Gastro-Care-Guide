@@ -67,7 +67,7 @@ Uygulamanın demo videosunu buradan izleyebilirsiniz:
 Android APK dosyasını indirmek için:
 
 👉 **[APK İndir](https://drive.google.com/drive/folders/1bblcSvKE3UKzETRg4-5oT90ntMzNRJQt?usp=drive_link)**
-
+👉 **[EXPO GO 'dan indirmek için](https://expo.dev/accounts/cubukcu/projects/gastrostomi-rehberi/builds/0742d5ca-ae7f-4d91-a204-6443e34c068c)**
 ---
 
 # 🛠 Kurulum ve Çalıştırma
