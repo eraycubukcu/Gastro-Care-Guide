@@ -164,7 +164,7 @@ android/app/build/outputs/apk/release/app-release.apk
 ## 📸 Ekran Görüntüleri
 
 Uygulama ekran görüntülerini buraya ekleyebilirsiniz.
-<img width="1080" height="2400" alt="hafta2_anasayfa" src="https://github.com/user-attachments/assets/bbc4c8df-ad08-4e07-941d-02b8e8f8d454" />
+<img width="720" height="1200" alt="hafta2_anasayfa" src="https://github.com/user-attachments/assets/bbc4c8df-ad08-4e07-941d-02b8e8f8d454" />
 
 ---
 
